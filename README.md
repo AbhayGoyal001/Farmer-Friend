@@ -20,7 +20,7 @@ This app is built using the MERN stack, which includes:
 
 - MongoDB: A NoSQL database for storing user data, crop information, and forum posts.
 - Express.js: A web application framework for Node.js used for building the backend API.
-- React.js: A JavaScript library for building user interfaces used for the frontend.
+- React.js: A JavaScript library for building user interfaces used for the front end.
 - Node.js: A JavaScript runtime environment used for server-side scripting.
 
 **Installation:**
@@ -29,14 +29,10 @@ To run this app locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
-3. Run `npm install` to install the necessary dependencies for both the frontend and backend.
+3. Run `npm install` to install the necessary dependencies for both the front end and backend.
 4. Set up your MongoDB database and provide the connection string in the backend configuration file.
 5. Run `npm start` to start the development server.
 
 **Contributing:**
 
 We welcome contributions from the community to improve and enhance this app. If you have any ideas, bug fixes, or feature requests, please feel free to submit a pull request or open an issue on GitHub.
-
-**License:**
-
-This project is licensed under the [MIT License](link-to-license). Feel free to use, modify, and distribute the code for your own purposes.
